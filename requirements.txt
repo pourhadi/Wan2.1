@@ -14,3 +14,5 @@ imageio-ffmpeg
 flash_attn
 gradio>=5.0.0
 numpy>=1.23.5,<2
+flask>=2.0.0
+requests>=2.28.0
